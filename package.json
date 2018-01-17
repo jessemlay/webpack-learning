@@ -2,14 +2,20 @@
   "name": "webpack-learning",
   "version": "1.0.0",
   "description": "learing webpack!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessemlay/webpack-learning.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jesse lay ",
   "license": "ISC",
-  "dependencies": {
-    "webpack": "^3.10.0"
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
   }
 }
